@@ -291,3 +291,9 @@ if (지원/취소 state) {
 
 
 
+
+<img width="600" alt="스크린샷 2021-11-25 오후 2 32 04" src="https://user-images.githubusercontent.com/80403988/143385187-c39ded55-f7e9-404d-b6ff-fe67f22d74e3.png">
+<img width="600" alt="스크린샷 2021-11-25 오후 2 31 48" src="https://user-images.githubusercontent.com/80403988/143385190-88ab7ecd-740d-4186-9347-3136d0180b36.png">
+<img width="600" alt="스크린샷 2021-11-25 오후 2 31 28" src="https://user-images.githubusercontent.com/80403988/143385192-34982003-0376-4332-92e7-020e08e2ba82.png">
+<img width="600" alt="스크린샷 2021-11-25 오후 2 32 17" src="https://user-images.githubusercontent.com/80403988/143385194-adc74688-642a-4cbd-bdc9-466f9ee88894.png">
+

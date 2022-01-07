@@ -296,3 +296,4 @@ if (지원/취소 state) {
 
 <img width="518" alt="스크린샷 2022-01-07 오전 1 17 32" src="https://user-images.githubusercontent.com/80403988/148414574-a0ead091-8728-4bc4-a977-1b094b69340b.png">
 
+<img width="149" alt="logo" src="https://user-images.githubusercontent.com/80403988/148485067-99b8c156-f4ba-4886-8918-f9c7832581de.png">

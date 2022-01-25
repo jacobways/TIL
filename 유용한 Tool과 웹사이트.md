@@ -5,16 +5,23 @@
 ## 프론트엔드 디자인
 
 ### 1. UI 디자인 샘플
-- CodePen (UI 디자인 샘플) : https://codepen.io/
-- dribbble (UI 디자인 샘플) https://dribbble.com/
+- CodePen : https://codepen.io/
+- dribbble : https://dribbble.com/
+- 노트폴리오 : https://notefolio.net/
+- MUI : https://v4.mui.com/
 
-### 2. 디자인 보조
+### 2. UI 디자인 제작
+- sketch : https://www.sketch.com/
+- 만다오 : https://techblog.woowahan.com/2719
+
+### 3. 디자인 보조
+- logogeni (로고 디자인) : https://www.logogenie.net/
 - canva (로고 디자인) : https://www.canva.com/ko_kr/
 - shapedivider (SVG 원하는 모양 만들기) : https://www.shapedivider.app/
 - haikei (추상적인 SVG 모양 만들기) : https://haikei.app/
 - coolbackgrounds (백드라운드 이미지 만들기) : https://coolbackgrounds.io/
 
-### 3. 색, 컬러, 애니메이션
+### 4. 색, 컬러, 애니메이션
 - flatuicolors (컬러) : https://flatuicolors.com/
 - color space (색깔) : https://mycolor.space/
 - CSS Gradient (그라데이션) : https://cssgradient.io/
